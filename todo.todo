@@ -1,0 +1,40 @@
+
+Kitten rush todo:
+ 
+   ☐ Corrigir as bordas laterais.
+   ☐ implementar o numero de kg no HUD.
+
+ Win/Lost screen:
+   ✔ implementar o menu. @done (14-12-28 17:13)
+   ✔ implementar os botoes.  @done (14-12-28 17:18)
+   ✔ implementar o numero de estrelas consoante os kgs. @done (14-12-28 17:49)
+   ✔ implementar win/lost label consoante o resutado. @done (14-12-28 17:49)
+   ☐ implementar o numero de kgs no menu.
+   ☐ implementar o screen nos restantes niveis (2-7).
+
+World 1:
+  ☐ Rever level 1.
+  ☐ Rever level 2.
+  ☐ Rever level 3.
+  ☐ Rever level 4.
+  ☐ Rever level 5.
+  ☐ Rever level 6.
+  ☐ Rever level 7.
+
+World 2:
+  ☐ Level 8.
+  ☐ Level 9.
+  ☐ Level 10.
+  ☐ Level 11.
+  ☐ Level 12.
+  ☐ Level 13.
+  ☐ Level 14.
+
+World 3:
+  ☐ Level 15.
+  ☐ Level 16.
+  ☐ Level 17.
+  ☐ Level 18.
+  ☐ Level 19.
+  ☐ Level 20.
+  ☐ Level 21.

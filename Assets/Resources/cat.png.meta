@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 7fcdceb1273fd2a4b8eb5d1c2fcfe8cb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cat
+    21300002: catSmile
+    21300004: catFat3
+    21300006: catFat2
+    21300008: catFat0
+    21300010: catFat4
+    21300012: catFat6
+    21300014: superFat
+    21300016: catFat5
+    21300018: catFat1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: catSmile
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1899
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: catFat3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1293
+        width: 188
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: catFat2
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 551
+        width: 170
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: catFat0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1669
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: catFat4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1666
+        width: 231
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: catFat6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1294
+        width: 371
+        height: 373
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: superFat
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 1028
+        height: 1036
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: catFat5
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 259
+        width: 288
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: catFat1
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 260
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

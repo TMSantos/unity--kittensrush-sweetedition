@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 58279983e6fff034285a2d1829451987
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: minichurro
+    21300002: bigspike
+    21300004: kitsauce
+    21300006: mexicanhat
+    21300008: smallspike
+    21300010: sweet1
+    21300012: sweet2
+    21300014: mexicanveg1
+    21300016: mexicanveg2
+    21300018: piripiriup
+    21300020: world2platform1
+    21300022: smallcirclespike
+    21300024: tequilla
+    21300026: ultrasmallspike
+    21300028: world2border
+    21300030: mexicanwallspike
+    21300032: bigcirclespike
+    21300034: piripiriwall
+    21300036: piripiridown
+    21300038: hotplatform
+    21300040: churroplatform
+    21300042: mediumcirclespike
+    21300044: smallchurroplatform
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: minichurro
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1871
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bigspike
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1877
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kitsauce
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1615
+        width: 194
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mexicanhat
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1401
+        width: 310
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smallspike
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1221
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sweet1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1051
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sweet2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 719
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mexicanveg1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 719
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mexicanveg2
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 721
+        width: 162
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piripiriup
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 399
+        width: 340
+        height: 304
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: world2platform1
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 563
+        width: 294
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smallcirclespike
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 559
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tequilla
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 63
+        width: 262
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ultrasmallspike
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 25
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: world2border
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 83
+        height: 2022
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mexicanwallspike
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 25
+        width: 127
+        height: 674
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bigcirclespike
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1616
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piripiriwall
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1038
+        width: 261
+        height: 339
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piripiridown
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 703
+        width: 340
+        height: 334
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hotplatform
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 425
+        width: 444
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: churroplatform
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 370
+        width: 384
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mediumcirclespike
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 944
+        width: 170
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smallchurroplatform
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 892
+        width: 233
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
